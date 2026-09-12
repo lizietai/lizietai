@@ -25,11 +25,14 @@ My goal is to continue developing my cybersecurity and networking skills and bec
 
 💡 Fun Fact
 
-I enjoy studying and learning something new whenever I can. I'm always looking for opportunities to improve my knowledge and develop new technical skills.
+* I enjoy studying and learning something new whenever I can.
+* I'm always looking for opportunities to improve my knowledge and develop new technical skills.
+* I like volunteering & helping others
+* I enjoy working on DIY Projects
 
 📫 How to Reach Me
 
-LinkedIn: 
-Email: taiojuolapee@gmail.com
+* **LinkedIn**: www.linkedin.com/in/lizietai
+* **Email**: taiojuolapee@gmail.com
 
 Thanks for visiting my profile! 🚀
