@@ -1,22 +1,35 @@
-# Hi, I'm Elizabeth Gbadebo 👋  
-Cybersecurity Enthusiast | Aspiring Security Analyst | Lifelong Learner
+**Hi, I'm Elizabeth Gbadebo** 👋
 
-I’m passionate about protecting systems, understanding threats, and building secure solutions.  
-My GitHub is where I document my learning journey, security labs, and hands‑on projects.
+I'm a **Threat Detection Analyst in training** based in King's Lynn, England, with a growing interest in cybersecurity and threat detection. I enjoy studying, building my technical knowledge, and learning something new every day. I'm particularly interested in understanding networks, security monitoring, and how threats can be detected and analysed.
 
-## 🔐 Interests & Focus Areas
-- Threat detection & analysis  
-- Network security fundamentals  
-- Vulnerability assessment  
-- Secure coding practices  
-- Incident response basics   
+📚 What I'm Currently Learning
 
-## 🛠️ Technical Skills
-- Python (automation & security scripts)  
-- Linux fundamentals  
-- Networking (TCP/IP, DNS, firewalls)  
-- Git & GitHub  
-- Basic SIEM concepts  
+* Cisco networking
+* IP addressing
+* Subnetting
+* SIEM concepts
+* Threat detection and analysis
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/elizabeth-gbadebo
+🛠️ My Skills & Tools
+
+* Threat Detection & Analysis
+* Networking fundamentals
+* Cisco Packet Tracer
+* Wireshark
+* Linux
+* Network troubleshooting and analysis
+
+🎯 My Goals
+
+My goal is to continue developing my cybersecurity and networking skills and become a highly skilled Threat Detection Analyst. I want to strengthen my understanding of security monitoring, network traffic analysis, SIEM technologies, and real-world threat detection.
+
+💡 Fun Fact
+
+I enjoy studying and learning something new whenever I can. I'm always looking for opportunities to improve my knowledge and develop new technical skills.
+
+📫 How to Reach Me
+
+LinkedIn: 
+Email: taiojuolapee@gmail.com
+
+Thanks for visiting my profile! 🚀
