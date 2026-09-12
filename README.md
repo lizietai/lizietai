@@ -35,4 +35,4 @@ My goal is to continue developing my cybersecurity and networking skills and bec
 * **LinkedIn**: www.linkedin.com/in/lizietai
 * **Email**: taiojuolapee@gmail.com
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile and follow my learning journey! 🚀
